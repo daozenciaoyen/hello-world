@@ -1,2 +1,3 @@
 # hello-world
-Your typical hello world repository
+
+If you don't know me by now, you will never never never know me. 
